@@ -35,4 +35,3 @@ $("input[type='checkbox']").click(function(){
 )
 
 })
-
