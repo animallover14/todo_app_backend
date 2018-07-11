@@ -3,6 +3,6 @@ class TodoController < ApplicationController
     end
     def show
     @todo_name="shopping"
-    @todo_pomadaro=1 pomadaro
+    @todo_pomadaro=1
     end
 end
