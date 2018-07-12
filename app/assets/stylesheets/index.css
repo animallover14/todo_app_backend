@@ -62,10 +62,7 @@ ul{
 .completed-time{
     text-decoration: line-through;
 }
-</div>
 
-
-<div class="showcss">
 h1{
     color: white ;
     background-color: dodgerblue;
@@ -85,5 +82,3 @@ body{
 
 #nameoftodo{
 }
-
-</div>
